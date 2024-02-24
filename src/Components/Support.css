@@ -1,0 +1,65 @@
+#supimg{
+    height: 230px;
+    width: 250px;
+
+}
+#supcon{
+    height: inherit;
+    padding-bottom: 50px;
+
+}
+    
+ 
+
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ .App1 {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:200px;
+    width: 70%;
+
+  }
+
+#dal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousel-item img{
+    width: 20px;
+    height: 20vh;
+}
+#containerSlide{
+    height: 50vh;
+}
+#f1{
+    width: 50px;
+    height: 500px;
+
+}
+.h1{
+    text-align: center;
+}
+.bookbtn{
+    width: 4rem;
+
+
+}
+
+#suph1{
+ 
+    font-family: 'Kumbh Sans', sans-serif;
+ 
+    font-size: 50px;
+    font-weight: bolder;
+    
+}
+

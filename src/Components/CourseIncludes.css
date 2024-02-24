@@ -1,0 +1,40 @@
+#courinclude{
+    background-color: purple;
+    height: inherit;
+}
+.carrhead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+}
+#wid{
+  
+    width: 200px;
+    margin: 0px 0px 20px 0px;
+
+
+}
+
+
+#h6s{
+    font-size: 15px;
+}
+#courimg{
+    height: 70px;
+    width: 70px;
+    margin: 10px 0px 20px 0px;
+}
+
+.carddd{
+    border-radius: 20px;
+    background-color: purple;
+    color: white;
+    box-shadow: 0 0 20px 0 black;
+text-align: center;
+    
+    
+}
+.carddd h5{
+    color: orange;
+}

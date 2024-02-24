@@ -1,0 +1,62 @@
+
+#sect{
+    background-color: purple;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: inherit;
+    font-family: 'Kumbh Sans', sans-serif;
+    
+}
+#h123{
+    color:orange;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+#carimg{
+height: 80px;
+width: 80px;
+border-radius: 50px;
+}
+#arrimg{
+    width: 90px;
+    height: 30px;
+}
+#brdimg{
+    width: 90px;
+    height: 55px;
+}
+#lefcon{
+    background-color: purple;
+    border-radius: 20px;
+    width: 530px;
+    color: white;
+    box-shadow: 0 0 20px 0 pink;
+
+}
+
+.h61{
+    font-size: 15px;
+}
+
+.text-center{
+    font-size: 17px;
+}
+.btnn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btnn button{
+    font-size: 20px;
+
+
+}
+
+

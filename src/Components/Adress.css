@@ -1,0 +1,22 @@
+#adresscon{
+
+    background-color: black;
+    height: inherit;
+    color:white;
+    
+    }
+  
+    p{
+        font-size: 14px;
+    }
+    
+    #addcon{
+        padding-top: 100px;
+    }
+    i{
+        margin-right: 10px;
+    }
+
+    .lastline{
+        margin-top: 150px;
+    }

@@ -1,0 +1,23 @@
+#wecon1{
+    height: inherit;
+    background-color: orange;
+}
+
+
+#weimg{
+    height: 70px;
+    width: 70px;
+    margin:20px 0px 10px 40px ;
+}
+.wecol{
+    border-radius: 20px;
+    background-color: aliceblue;
+    box-shadow: 0 0 20px 0 darkorange;
+
+    
+
+}
+.wecol:hover{
+    background-color: red;
+    transition-duration:2s ;
+}

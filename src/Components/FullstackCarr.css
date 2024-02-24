@@ -1,0 +1,37 @@
+#fullstack{
+    background-color:orange;
+    height: inherit;
+
+}
+.fullhead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: bolder;
+}
+
+#fullimg{
+
+    width: 60px;
+    height: 50px;
+    margin:30px 0px 10px 120px ;
+}
+
+.card1{
+    height: 270px;
+    width: 330px;
+    padding: 0px 10px 0px 10px;
+    border-radius: 30px;
+    background-color:white;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}
+    .h6c{
+    font-size: 15px;
+    
+}
+.h3b{
+    font-size: 20px;
+    font-weight: bolder;
+}

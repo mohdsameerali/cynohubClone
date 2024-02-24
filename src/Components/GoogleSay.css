@@ -1,0 +1,76 @@
+
+#skillcon{
+    height: inherit;
+    background-color: purple;
+    color: white;
+}
+
+.orf,.skillh1{
+    color: orange;
+}
+
+hr{
+    font-size: 10px;
+}
+#rtimg img{
+    width: 550px;
+    height: 200px;
+}
+#rtimg {
+    display: grid;
+    place-items: center;
+  
+
+}
+
+
+
+
+#colfirsts{
+height: auto;
+width: 400px;
+}
+
+.head h1{
+
+  align-items: center;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+
+#g1,#g4{
+color: blue;
+}
+
+
+
+#g3{
+    color: orange;
+
+}
+
+
+
+
+#g2{
+color: red;
+}
+
+
+
+
+
+
+#g5{
+    color:green;
+
+}
+
+
+
+#g6{
+color:red;
+}
+
+
+

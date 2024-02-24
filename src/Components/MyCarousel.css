@@ -1,0 +1,44 @@
+.App {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:200px;
+    width: 70%;
+  }
+
+  .cen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  /* ------------------------- */
+
+
+.carousel-item img{
+    width: 20px;
+    height: 20vh;
+}
+#containerSlide{
+    height: inherit;
+   
+}
+#f1{
+    width: 50px;
+    height: 500px;
+
+}
+.h1{
+    text-align: center;
+}
+.bookbtn{
+    width: 4rem;
+
+
+}
+
+
+
+

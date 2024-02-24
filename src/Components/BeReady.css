@@ -1,0 +1,31 @@
+#becon{
+
+    height: inherit;
+    background-color: orange;
+    color: white;
+  
+
+
+}
+
+#beimg{
+    width: 500px;
+    height: 500px;
+}
+
+#indus{
+    color: purple;
+    font-family: 'Kumbh Sans', sans-serif;
+  font-weight: bolder;
+}
+hr{
+  background-color:white;
+  height: 1px;
+}
+#befont{
+  font-family: 'Kumbh Sans', sans-serif;
+
+}
+#fas{
+  color: purple;
+}

@@ -1,0 +1,201 @@
+
+@media screen and (max-width:1000px ){                            
+          .FormSection{ 
+                        width: 450px;
+      
+                }
+          .childSection{
+                        width:350px ;
+
+                 
+              }
+          #btnsub{
+                        width:320px ;
+
+              }
+
+          #rtimg img{
+                width: 400px;
+            }
+
+          .headingPar h1{
+              font-size: 20px;
+          
+          }
+          #lastcard{
+            margin-top: 20px;
+          }
+   
+              
+ }
+
+
+@media screen and (max-width:760px ){                            
+            
+              #btnsub{
+                        width:320px ;
+      
+                    }
+              #silmg #skillimg{
+                      width: 500px;
+                      height: 500px;
+                  }
+
+              #rtimg img{
+                    width: 350px;
+                }
+              #hwe{
+                  font-size: 20px;
+                }
+              hr{
+                  width: 50%;
+                }
+              #bookbtn{
+  
+                     font-size: 20px;
+                 }
+            .fullcen{
+              margin-bottom: 50px;
+            }    
+            
+            .wecol{
+              margin-bottom: 50px;
+            }
+
+
+            .heade1 h1{
+              font-size: 30px;
+            }
+
+            #btfront{
+              font-size: 0.7rem;
+            }
+
+
+            #end1,#end2{
+              margin-top: 50px;
+            }
+            #lefcon{
+                width: 430px;
+
+            }
+  
+            #beimg{
+              width: 400px;
+              height: 400px;
+          }     
+          .navbar-nav{
+           
+            margin-left: 0px;
+        }
+        #suph1{
+ 
+       
+          font-size: 30px;
+          
+      }
+      #h123{
+        
+        font-size: 30px;
+    }
+
+    .fullhead h1{
+      font-size: 30px;
+      
+  }
+  .carrhead h1{
+    font-size: 30px;
+    
+        
+        }
+      }
+
+@media screen and (max-width:500px ){                            
+              
+             .childSection{
+                        width:320px ;
+                }
+
+                .skillimg{
+                  width: 100px;
+                  height: 100px;
+              }
+  
+              #rtimg img{
+                width: 250px;
+            }
+            #silmg #skillimg{
+              width: 300px;
+              height: 300px;
+          }
+
+          #btfront{
+            font-size: 0.6rem;
+          }
+          #lefcon{
+            width: 380px;
+        
+                    }
+
+                    #beimg{
+                      width: 300px;
+                      height: 300px;
+                  }
+
+
+
+              }
+       
+
+              
+@media screen and (max-width:450px ){                            
+              
+                .childSection{
+                           width:300px ;
+                   }
+                   #btnsub{
+                    width:300px ;
+  
+                }
+                .skillimg{
+                  width: 80px;
+                  height: 80px;
+              }
+              #lefcon{
+                width: 340px;
+            
+                        }
+                        
+#carimg{
+  height: 50px;
+  width: 50px;
+}
+  #arrimg{
+    width: 40;
+    height: 25px;
+}
+   
+#brdimg{
+  width: 60px;
+  height: 40px;
+}
+
+#parimg{
+  height: 60px;
+  width: 150px;
+}
+                 }             
+
+ @media screen and (max-width:400px ){                            
+              
+                  .childSection{
+                             width:280px ;
+                     }
+                     #btnsub{
+                      width:280px ;
+    
+                  }
+     
+                   } 
+
+

@@ -1,0 +1,76 @@
+#HomePage{
+    
+    height:inherit;
+    background-color: purple;
+    padding-top: 100px;
+
+}
+
+#homeRow{
+    padding-top: 4rem;
+    
+}
+.contesleft{
+    color: white;
+    width: 400px;
+
+
+}
+#col2{
+    background-color:purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+
+
+
+}
+.orange{
+    color: orange;
+}
+input{
+    font-size: 15rem;
+}
+.fa-solid{
+    color: orange;
+}
+.imp{
+    color: red;
+
+}
+
+.FormSection{
+    width: 550px;
+border-radius: 2rem;
+    height: 80vh;
+    box-shadow: 0 0 20px 0 black;
+
+}
+
+
+.childSection{
+
+width:450px ;
+margin-left: 2rem;
+  
+
+}
+label{
+    font-size: 0.8rem;
+}
+
+
+
+
+
+#aline{
+
+    display: flex; align-items: flex-end 
+
+}
+
+#btnsub{
+width: 445px;
+}
+

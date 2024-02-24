@@ -1,0 +1,24 @@
+#parcon{
+    height: inherit;
+    padding-bottom: 50px;
+}
+
+
+.headingPar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.headingPar h1{
+    font-weight: bolder;
+
+}
+
+
+#parimg{
+    height: 80px;
+    width: 180px;
+}

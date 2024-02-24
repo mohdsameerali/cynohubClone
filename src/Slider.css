@@ -1,0 +1,116 @@
+.carousel-item img{
+    width: 100%;
+    height: 90vh;
+}
+.carousel-item{
+    position: relative;
+ 
+
+}
+.carousel-item .textin{
+    width: 80%;
+    height: 90vh;
+    right: 0;
+    position: absolute;
+    /* border: 3px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    color: white;
+}
+.textin h1{
+    font-weight: bolder;
+    font-size: 90px;
+    font-family: 'Playfair Display', serif;
+    margin: 10px 0px 20px 0px;
+}
+.textin h3{
+    font-size: 30px;
+    
+}
+.textin button{
+    border: 0px;
+    height: 45px;
+    width: 150px;
+    border-radius: 20px;background-color: darkorange;
+}
+.textin button:hover{
+    background-color: black;
+    color: white;
+    transition-duration: 1s; 
+    }
+
+/* <-------------------------------------secound slider----------------------------------> */
+.carousel-item .textin2{
+    width: 50%;
+    height: 90vh;
+    position: absolute;
+    right: 0;
+    /* border: 3px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    color: #7258d9;
+
+}
+.textin2 h1{
+    font-weight: bolder;
+    font-size: 90px;
+    font-family: 'Playfair Display', serif; 
+    margin: 10px 0px 20px 0px;
+}
+.textin2 h3{
+    font-size: 30px;
+    
+}
+.textin2 button{
+border: 0px;
+    height: 45px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #00ff95;
+    
+}
+.textin2 button:hover{
+    background-color: black;
+    color: white;
+    transition-duration: 1s;       
+    }
+
+
+    /* <-------------------------------------third slider----------------------------------> */
+.carousel-item .textin3{
+    width: 100%;
+    height: 90vh;
+    position: absolute;
+    /* border: 3px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #09041c;
+}
+.textin3 h1{
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 30px;
+}
+.textin3 button{
+    border: 0px;
+    height: 45px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #00ff95;
+}
+.textin3 button:hover{
+    background-color: black;
+    color: white;
+    transition-duration: 1s;
+     
+    }
+
+
+    
